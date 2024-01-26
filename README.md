@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [The Greenery](https://greenery-ecommerce.vercel.app/)
 
-- 🌱 I’m currently learning **NuxtJs**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://jamessdev.vercel.app/](https://jamessdev.vercel.app/)
 
