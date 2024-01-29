@@ -9,7 +9,7 @@
   My dedication to frontend development thrives on the dynamic challenges of staying at the forefront of technology. I also like to stay in the latest of technology, and learn about them   more on my free time. My journey is driven by the mission of making the digital world a better place one project at a time.
 </p>
 
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="coding" />
+<img align="right" width="40%" src="https://i.pinimg.com/originals/f7/6d/40/f76d4076892116eb5ac6325d1a86937a.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semajame&label=Profile%20views&color=0e75b6&style=flat" alt="semajame" /> </p>
 
