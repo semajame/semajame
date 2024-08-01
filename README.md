@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semajame&label=Profile%20views&color=0e75b6&style=flat" alt="semajame" /> </p>
 
-- 🔭 I’m currently working on [The Greenery](https://greenery-ecommerce.vercel.app/)
+- 🔭 I’m currently working on my capstone project
 
-- 🌱 I’m currently learning **NodeJs**, **ExpressJS**,
+- 🌱 I’m currently learning **Nuxt**
 
 - 👨‍💻 All of my projects are available at [https://jamessdev.vercel.app/](https://jamessdev.vercel.app/)
 
