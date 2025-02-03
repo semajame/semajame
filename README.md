@@ -15,8 +15,6 @@
 
 - 🔭 I’m currently working on my internship project
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at [https://jamessdev.vercel.app/](https://jamessdev.vercel.app/)
 
 - 📫 How to reach me **jamesanquillano@gmail.com**
