@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="40" height="40"/> </a><a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxt" alt="nuxt" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="40" height="40"/> </a><a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxt" alt="nuxt" width="40" height="40"/> </a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
