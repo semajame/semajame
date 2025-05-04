@@ -50,9 +50,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
   </a>
-  <a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=chatgpt" alt="chatgpt" width="40" height="40"/>
-  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   </a>
