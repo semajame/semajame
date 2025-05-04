@@ -44,6 +44,9 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
   </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
   </a>
