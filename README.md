@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semajame&label=Profile%20views&color=0e75b6&style=flat" alt="semajame" /> </p>
 
-- 🔭 I’m currently working on my internship project
+- 🔭 I’m currently working on my client's website
 
 - 👨‍💻 All of my projects are available at [https://jamessdev.vercel.app/](https://jamessdev.vercel.app/)
 
