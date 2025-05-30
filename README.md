@@ -4,9 +4,9 @@
 <h3 align="center">A Web Developer, based in Cebu, Philippines</h3>
 
 <p>
-  Hi! I'm a passionate Frontend Developer from Cebu, Philippines. I specialize in crafting visually appealing and user-friendly interfaces with the use of my technology stack.
+  Hi! I'm a passionate web Developer from Cebu, Philippines. I specialize in crafting visually appealing and user-friendly interfaces with the use of my technology stack.
   
-  My dedication to frontend development thrives on the dynamic challenges of staying at the forefront of technology. I also like to stay in the latest of technology, and learn about them   more on my free time. My journey is driven by the mission of making the digital world a better place one project at a time.
+  My dedication to web development thrives on the dynamic challenges of staying at the forefront of technology. I also like to stay in the latest of technology, and learn about them   more on my free time. My journey is driven by the mission of making the digital world a better place one project at a time.
 </p>
 
 <img align="right" width="40%" src="https://i.pinimg.com/originals/f7/6d/40/f76d4076892116eb5ac6325d1a86937a.gif" alt="coding" />
