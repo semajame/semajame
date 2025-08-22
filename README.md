@@ -32,7 +32,7 @@
   <a href="https://typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/></a>
+  <a href="/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="dotnet" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/></a>
