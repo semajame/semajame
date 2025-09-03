@@ -14,11 +14,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semajame&label=Profile%20views&color=0e75b6&style=flat" alt="semajame" /> </p>
 
-- 🔭 I’m currently working on **client-based projects**  
-- 🌱 I’m learning **Prompt Engineering**  
 - 👨‍💻 Check out my portfolio: [https://jamessdev.vercel.app/](https://jamessdev.vercel.app/)  
-- 📫 Reach me at **jamesanquillano@gmail.com**  
-- ⚡ Fun fact: I love experimenting with new frameworks and tools 🤓  
+- 📫 Reach me at **jamesanquillano@gmail.com** 
 
 ---
 
