@@ -17,7 +17,7 @@
 - 👨‍💻 Check out my portfolio: [https://jamessdev.vercel.app/](https://jamessdev.vercel.app/)  
 - 📫 Reach me at **jamesanquillano@gmail.com** 
 
----
+
 
 
 ---
