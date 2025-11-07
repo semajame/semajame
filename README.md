@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semajame&label=Profile%20views&color=0e75b6&style=flat" alt="semajame" /> </p>
 
-- 👨‍💻 Check out my portfolio: [https://jamessdev.vercel.app/](https://jamessdev.vercel.app/)  
+- 👨‍💻 Check out my portfolio: [https://jamessdev.is-a.dev/](https://jamessev.is-a.dev/)
 - 📫 Reach me at **jamesanquillano@gmail.com** 
 
 
